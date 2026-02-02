@@ -7,4 +7,7 @@ Before start to learn NLP, we should discuss about the question below about NLP:
 	-> Number of unique words in a corpus
 	-> Example:
 		> Document:
-		 a
+			"I like eggs
+			I hate cats
+			I like eggs and I hate cats"
+			There are 6 unique words ⇒ 
