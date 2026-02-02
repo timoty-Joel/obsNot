@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "ac720215f9877bc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "55374b4ff838d420",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b651c4a566332b4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsNot/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d88eedbcf4e06673",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c405888f3e661f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb439c8d3bfa3cf2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f6c6a315d19e6188",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "afda722d7e1cc0ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ee985dc03b29164e",
+    "type": "split",
+    "children": [
+      {
+        "id": "885ba1bae79e1a67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67f4e791ecb964b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsNot/NLP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for NLP"
+            }
+          },
+          {
+            "id": "2d1fdd688099d8ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6651b9049da33e52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsNot/NLP.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from NLP"
+            }
+          },
+          {
+            "id": "edd07101163959a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsNot/NLP.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of NLP"
+            }
+          },
+          {
+            "id": "857864582b8a98dd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b651c4a566332b4f",
+  "lastOpenFiles": [
+    "obsNot/NLP.md",
+    "obsNot/README.md",
+    "Data Pipeline with TensorFlow Services.md",
+    "Pasted image 20240404012312.png",
+    "obsNot/Asu.md",
+    "obsNot",
+    "AI-ML/Notes/Math Basic for ML - AI.md",
+    "AI-ML/Tips Prompting.md",
+    "AI-ML/Tips from Skripsi.md",
+    "AI-ML/Tips for NLP (Natural Language Processing).md",
+    "AI-ML/Tips for Data Science or Deep Learning AI Projects.md",
+    "AI-ML/Notes for Data Analysis.md",
+    "AI-ML/Notes",
+    "AI-ML",
+    "1_DmAwcMCcHqZdF62J0hNWlQ.webp",
+    "Analyze Data to Answer Questions.md",
+    "obsNot/AI-ML/Notes/Math Basic for ML - AI.md",
+    "obsNot/AI-ML/Tips Prompting.md",
+    "obsNot/AI-ML/Tips from Skripsi.md",
+    "obsNot/AI-ML/Tips for NLP (Natural Language Processing).md",
+    "obsNot/AI-ML/Tips for Data Science or Deep Learning AI Projects.md",
+    "obsNot/AI-ML/Notes for Data Analysis.md",
+    "obsNot/AI-ML/Notes",
+    "obsNot/AI-ML",
+    "Untitled",
+    "Bangkit Notes/ML Specialization/Supervised Machine Learning ~ Regression and Classification.md",
+    "image/image_bangkit_notes/Pasted image 20231222222825.png",
+    "image/image_bangkit_notes/ex_table.png",
+    "Bangkit Notes/Linear Algebra for ML.md",
+    "Bangkit Notes/Deep Learning/C1/CV_1.PNG",
+    "Bangkit Notes/Deep Learning/Introduction to TensorFlow for AI, ML and DL.md",
+    "Bangkit Notes/Deep Learning/NLP.md",
+    "Bangkit Notes/Deep Learning/Time Series Forecasting.md",
+    "Linux Pert 8 Begin.md",
+    "Bangkit Notes/Advanced Technique TensorFlow/Functional APIs.md",
+    "Syllabus ML Dicoding.md",
+    "( Belajar ) Grafik Komputer/2. Mechanic.md",
+    "Bangkit Notes/Advanced Technique TensorFlow",
+    "Bangkit Notes/DataPipeline/W1_5.PNG",
+    "Bangkit Notes/DataPipeline/W1_4.PNG",
+    "Bangkit Notes/DataPipeline/W1_3.PNG",
+    "Bangkit Notes/DataPipeline/W1_2.PNG",
+    "Bangkit Notes/DataPipeline/W1_1.PNG",
+    "Bangkit Notes/DataPipeline",
+    "Bangkit Notes/New folder",
+    "Bangkit Notes/Deep Learning/C1/CV_7.webp.crdownload",
+    "Untitled.canvas"
+  ]
+}
