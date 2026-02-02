@@ -10,4 +10,5 @@ Before start to learn NLP, we should discuss about the question below about NLP:
 			"I like eggs
 			I hate cats
 			I like eggs and I hate cats"
-			There are 6 unique words ⇒ 
+			There are 6 unique words ⇒ Vocab size = 6
+			**Addition**: If we do vectorization by counting
