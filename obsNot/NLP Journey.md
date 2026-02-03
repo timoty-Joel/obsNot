@@ -18,4 +18,6 @@ Vocab size
 		and cats eggs hate I like
 		
 Normalization
-- Needed because text document can contain many words. In a corpus, there are many **long** or **short** text docun
+- Needed because text document can contain many words. In a corpus, there are many **long** or **short** text document. 
+- Normalization:
+	
