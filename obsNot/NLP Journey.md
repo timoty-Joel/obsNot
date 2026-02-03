@@ -1,4 +1,5 @@
 # NLP Journey
+This note documents my NLP learning journey 
 Before start to learn NLP, we should discuss about the question below about NLP:
 
 ---
