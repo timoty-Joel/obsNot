@@ -17,3 +17,5 @@ Vocab size
 		**Addition**: If we do vectorization by counting → There are 3 rows and 6 unique words, so there will be 6 vector with 3 as the length.
 		and cats eggs hate I like
 		
+Normalization
+- Needed because text document can contain many words. In a corpus, there are many **long** or **short** text docun
