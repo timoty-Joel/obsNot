@@ -13,7 +13,6 @@ Vocab size
 		I hate cats  
 		I like eggs and I hate cats"  
 		There are 6 unique words ⇒ Vocab size = 6  
-		**Addition**: If we do vectorization by counting → There are 3 rows and 6 unique words, so there will be 6 vector with 3 as the length
+		**Addition**: If we do vectorization by counting → There are 3 rows and 6 unique words, so there will be 6 vector with 3 as the length.
 		and cats eggs hate I like
 		
-
