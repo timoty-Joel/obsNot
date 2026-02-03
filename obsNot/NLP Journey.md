@@ -1,5 +1,5 @@
 # NLP Journey
-This note documents my NLP learning journey 
+This note documents my NLP learning journey starting from fundamental concepts then move to more advanced knowledge such as complex models and real-world
 Before start to learn NLP, we should discuss about the question below about NLP:
 
 ---
