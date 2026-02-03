@@ -21,5 +21,5 @@ Vocab size
 Normalization
 - Needed because text document can contain many words. In a corpus, there are many **long** or **short** text document. 
 - Normalization:
-	$\hat{x} = \frac{x}{| | x| |_{2}}$ → $| | x | |_{2} = \\sqrt{ }$
+	$\hat{x} = \frac{x}{| | x| |_{2}}$ → $| | x | |_{2} = \sqrt{\sum_{i=1}^{v} x^2$
 	
