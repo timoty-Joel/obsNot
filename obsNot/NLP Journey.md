@@ -14,5 +14,5 @@ Vocab size
 		There are 6 unique words ⇒ Vocab size = 6
 		**Addition**: If we do vectorization by counting → There are 3 rows and 6 unique words, so there will be 6 vector with 3 as the length
 			
-abs
+absssss
 abs
