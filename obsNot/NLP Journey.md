@@ -7,7 +7,7 @@ Before start to learn NLP, we should discuss about the question below about NLP:
 Vocab size
  - Number of unique words in a corpus
  -  Example:
-	> Document:
+	> Document:  
 		"I like eggs  
 		I hate cats  
 		I like eggs and I hate cats"  
