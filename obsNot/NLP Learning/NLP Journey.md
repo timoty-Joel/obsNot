@@ -29,3 +29,4 @@ Normalization
 Why we need vector for NLP?
 - Computer needs numerical representations to understand and process data → Text data is converted into numeric values in form of vector
 - Vector in NLP, capture semantic (meaning), syntactic structure, and contextual relation of the text. 
+
