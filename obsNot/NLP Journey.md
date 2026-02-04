@@ -24,4 +24,6 @@ Normalization
 	1. L2 Norm - 1
 		$\hat{x} = \frac{x}{| | x| |_{2}}$ → $| | x | |_{2} = \sqrt{\sum_{i=1}^{v} x^2}$ 
 	2. Divided by Sum
-		$\hat{x} = \frac{x}{\sum_{i=1}^{v} x_{{i}}}$ , $\sum_{i=1}^v x_{i} = $
+		$\hat{x} = \frac{x}{\sum_{i=1}^{v} x_{{i}}}$ , $\sum_{i=1}^v x_{i} = \sum_{i=1}^v |x_{i}| = | | x | |_{1}$ 
+
+Why we need vector for NLP?
