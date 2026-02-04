@@ -1,0 +1,1 @@
+Tokenization ⇒ Process **breaking down** a text into individual units called **token**. 
