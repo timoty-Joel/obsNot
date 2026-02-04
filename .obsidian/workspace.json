@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsNot/NLP Learning/NLP Journey.md",
+                "file": "obsNot/NLP Learning/Tokenization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NLP Journey"
+              "title": "Tokenization"
             }
           },
           {
@@ -195,11 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb439c8d3bfa3cf2",
+  "active": "b651c4a566332b4f",
   "lastOpenFiles": [
+    "obsNot/NLP Journey.md",
+    "obsNot/NLP Learning/Tokenization.md",
     "obsNot/NLP Learning",
     "Bangkit Notes/ML Specialization/Advanced Supervised Machine Learning.md",
-    "obsNot/NLP Learning/NLP Journey.md",
     "Bangkit Notes/ML Specialization/Supervised Machine Learning ~ Regression and Classification.md",
     "Bangkit Notes/ML Specialization/Unsupervised Learning, Recommenders, and Reinforcement Learning.md",
     "obsNot/Img",
@@ -242,7 +243,6 @@
     "Bangkit Notes/DataPipeline/W1_2.PNG",
     "Bangkit Notes/DataPipeline/W1_1.PNG",
     "Bangkit Notes/DataPipeline",
-    "Bangkit Notes/New folder",
     "Untitled.canvas"
   ]
 }
