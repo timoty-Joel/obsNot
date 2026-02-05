@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsNot/NLP Journey.md",
+                "file": "obsNot/NLP Learning/Tokenization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NLP Journey"
+              "title": "Tokenization"
             }
           }
         ],
@@ -198,8 +198,8 @@
   },
   "active": "52c928e78e3660d0",
   "lastOpenFiles": [
-    "obsNot/NLP Learning/Tokenization.md",
     "obsNot/NLP Journey.md",
+    "obsNot/NLP Learning/Tokenization.md",
     "Bangkit Notes/ML Specialization/Supervised Machine Learning ~ Regression and Classification.md",
     "Bangkit Notes/ML Specialization/Advanced Supervised Machine Learning.md",
     "obsNot/NLP Learning",
