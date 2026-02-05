@@ -14,3 +14,4 @@ Type of Tokenization:
 	- Can be performed by **split()** function or leveraging RegEx
 	
 3. Subword Tokenization
+4. 
