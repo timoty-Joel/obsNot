@@ -16,7 +16,8 @@ Type of Tokenization:
 	- Can be performed by **split()** function or leveraging RegEx
 	- Limitation:
 		- Enormous Vocab Size 
-			→
+			→ There are so much words in a language
+			→ With enormous amount of words →  
 		- Handling Misspelled
 	
 3. Subword Tokenization
