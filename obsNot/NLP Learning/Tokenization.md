@@ -10,5 +10,6 @@ Type of Tokenization:
 	
 2. Word-based Tokenzation
 	- Text data is divided into sequence of individual words
+	- Works well for languages with clear word boundaries such as ...
 	
 3. Subword Tokenization
