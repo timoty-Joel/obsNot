@@ -15,7 +15,8 @@ Type of Tokenization:
 		**Language with clearword boundaries** ⇒ Morphemes (meaningful units) are added to a root word in a linear and consistent way
 	- Can be performed by **split()** function or leveraging RegEx
 	- Limitation:
-		- Enormous Vocab Size
+		- Enormous Vocab Size 
+			→
 		- Handling Misspelled
 	
 3. Subword Tokenization
