@@ -11,8 +11,11 @@ Type of Tokenization:
 	
 2. Word-based Tokenzation
 	- Text data is divided into sequence of individual words
-	- Works well for languages with clear word boundaries such as ...
+	- Works well for languages with clear word boundaries such as spanish, english, and german. 
+		**Language with clearword boundaries** ⇒ Morphemes (meaningful units) are added to a root word in a linear and consistent way
 	- Can be performed by **split()** function or leveraging RegEx
+	- Limitation:
+		- Enormous Vocab Size
 	
 3. Subword Tokenization
 4. 
