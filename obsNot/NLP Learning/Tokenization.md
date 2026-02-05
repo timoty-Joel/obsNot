@@ -11,5 +11,6 @@ Type of Tokenization:
 2. Word-based Tokenzation
 	- Text data is divided into sequence of individual words
 	- Works well for languages with clear word boundaries such as ...
+	- Can be performed by **split()** function or leveraging RegEx
 	
 3. Subword Tokenization
