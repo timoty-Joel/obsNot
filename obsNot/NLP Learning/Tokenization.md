@@ -16,3 +16,4 @@ Type of Tokenization:
 	
 3. Subword Tokenization
 4. 
+5. 
