@@ -9,6 +9,6 @@ Type of Tokenization:
 	- For english, there will be 26 token for each letter and some token for punctuation and spaces. While in the other language, the amount of token will be different.  
 	
 2. Word-based Tokenzation
-	- Text data is divided into sequence of words
+	- Text data is divided into sequence of individual words
 	
 3. Subword Tokenization
