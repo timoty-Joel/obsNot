@@ -27,5 +27,6 @@ Type of Tokenization:
 	- Aim ⇒ Address the challenge:  
 		→ Large vocab size (word-based)  
 		→ Long sequence & reduced semantic meaning (Char-based) 
-4. 
-5. 
+4. Sentence Tokenization
+	- Divide paragraph or large set 
+5. N-gram Tokenization
