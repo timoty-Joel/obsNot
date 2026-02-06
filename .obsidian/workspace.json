@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Tokenization"
             }
+          },
+          {
+            "id": "b622e60987682e1b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52c928e78e3660d0",
+  "active": "b622e60987682e1b",
   "lastOpenFiles": [
     "obsNot/NLP Journey.md",
     "obsNot/NLP Learning/Tokenization.md",
