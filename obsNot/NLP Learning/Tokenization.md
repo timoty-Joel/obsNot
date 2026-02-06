@@ -15,10 +15,10 @@ Type of Tokenization:
 		**Language with clearword boundaries** ⇒ Morphemes (meaningful units) are added to a root word in a linear and consistent way
 	- Can be performed by **split()** function or leveraging RegEx
 	- Limitation:
-		- Enormous Vocab Size 
+		- Enormous Vocab Size  
 			→ There are so much words in a language  
 			→ With enormous amount of words →  Model can be more complex and need more resource
-		- Handling Misspelled
+		- Handling Misspelled  
 			→ Misspelled words → Classified as OOV → Loss of info, model failed to recognize
 	- Example Libraries: spaCy, NLTK, Keras
 
