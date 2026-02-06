@@ -24,6 +24,8 @@ Type of Tokenization:
 
 3. Subword Tokenization
 	- Strikes the balance between word-based and character-based
-	- Aim ⇒ 
+	- Aim ⇒ Address the challenge:  
+		→ Large vocab size (word-based)  
+		→ Long sequence & reduced semantic meaning (Char-based) 
 4. 
 5. 
