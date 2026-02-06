@@ -19,6 +19,7 @@ Type of Tokenization:
 			→ There are so much words in a language  
 			→ With enormous amount of words →  Model can be more complex and need more resource
 		- Handling Misspelled
+			→ Misspelled words → Classified as OOV → Loss of info, model failed to recognize
 	
 3. Subword Tokenization
 4. 
