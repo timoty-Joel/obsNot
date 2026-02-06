@@ -20,7 +20,8 @@ Type of Tokenization:
 			→ With enormous amount of words →  Model can be more complex and need more resource
 		- Handling Misspelled
 			→ Misspelled words → Classified as OOV → Loss of info, model failed to recognize
-	
+	- Example Libraries: spaCy, NLTK, Keras
+
 3. Subword Tokenization
 4. 
 5. 
