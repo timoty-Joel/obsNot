@@ -30,5 +30,5 @@ Type of Tokenization:
 
 4. Sentence Tokenization
 	- Divide paragraph or large set sentences into separated sentences as token
-	- 
+
 5. N-gram Tokenization
