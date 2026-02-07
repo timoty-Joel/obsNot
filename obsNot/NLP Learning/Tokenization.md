@@ -27,6 +27,8 @@ Type of Tokenization:
 	- Aim ⇒ Address the challenge:  
 		→ Large vocab size (word-based)  
 		→ Long sequence & reduced semantic meaning (Char-based) 
+	- **How it works?**
+		- 
 
 4. Sentence Tokenization
 	- Divide paragraph or large set sentences into separated sentences as token
