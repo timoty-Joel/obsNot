@@ -30,5 +30,6 @@ Type of Tokenization:
 
 4. Sentence Tokenization
 	- Divide paragraph or large set sentences into separated sentences as token
+	- Model can process the data and in this way can be more accurate in understanding language patterns.
 
 5. N-gram Tokenization
