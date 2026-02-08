@@ -53,3 +53,4 @@ Type of Tokenization:
 		- Doesn't capture long dependencies
 		- Sparse vector problem
 		- Word boundary problem
+	

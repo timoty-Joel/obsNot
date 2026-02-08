@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsNot/NLP Learning/Tokenization.md",
+                "file": "obsNot/NLP Learning/Stemming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tokenization"
-            }
-          },
-          {
-            "id": "b622e60987682e1b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "title": "Stemming"
             }
           }
         ]
@@ -195,10 +183,13 @@
   },
   "active": "52c928e78e3660d0",
   "lastOpenFiles": [
-    "obsNot/img/Stemming",
-    "Subword Tokenization.md",
     "obsNot/NLP Learning/Tokenization.md",
+    "Bangkit Notes/Linear Algebra for ML.md",
+    "ML/Exploratory Data Analysis.md",
+    "obsNot/NLP Learning/Stemming.md",
+    "Subword Tokenization.md",
     "().md",
+    "obsNot/img/Stemming",
     "obsNot/img/Tokenization/Subword_1.png",
     "obsNot/Img/Tokenization/Subword_1.png.crdownload",
     "Pasted image 20260208175251.png",
@@ -231,10 +222,7 @@
     "obsNot/AI-ML/Tips Prompting.md",
     "obsNot/AI-ML/Tips from Skripsi.md",
     "obsNot/AI-ML/Tips for NLP (Natural Language Processing).md",
-    "obsNot/AI-ML/Tips for Data Science or Deep Learning AI Projects.md",
-    "obsNot/AI-ML/Notes for Data Analysis.md",
     "obsNot/AI-ML/Notes",
-    "obsNot/AI-ML",
     "image/image_bangkit_notes/Pasted image 20231222222825.png",
     "image/image_bangkit_notes/ex_table.png",
     "Bangkit Notes/Deep Learning/C1/CV_1.PNG",
