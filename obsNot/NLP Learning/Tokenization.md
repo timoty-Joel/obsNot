@@ -23,7 +23,7 @@ Type of Tokenization:
 	- Example Libraries: spaCy, NLTK, Keras
 
 3. Subword Tokenization
-
+	![[Subword_1.png]]
 	- Strikes the balance between word-based and character-based
 	- Aim ⇒ Address the challenge:  
 		→ Large vocab size (word-based)  
