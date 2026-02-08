@@ -46,4 +46,5 @@ Type of Tokenization:
 		trigram → n = 3  
 	- Advantages:
 		- Captures word relation
-		- 
+		- Robust to spelling variation
+		- Helps handle unknown words
