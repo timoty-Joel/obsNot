@@ -48,3 +48,8 @@ Type of Tokenization:
 		- Captures word relation
 		- Robust to spelling variation
 		- Helps handle unknown words
+	- Limits:
+		- Dimensionality explosion
+		- Doesn't capture long dependencies
+		- Sparse vector problem
+		- Word boundary problem
