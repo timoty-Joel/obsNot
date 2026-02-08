@@ -28,7 +28,7 @@ Type of Tokenization:
 		→ Large vocab size (word-based)  
 		→ Long sequence & reduced semantic meaning (Char-based) 
 	- **How it works?**
-		- It **avoid** breaking down words
+		- It **avoid** breaking down words that are **commonly used** into smaller subwords
 
 4. Sentence Tokenization
 	- Divide paragraph or large set sentences into separated sentences as token
