@@ -24,7 +24,7 @@ Type of Tokenization:
 
 3. Subword Tokenization  
 
-	![Subword Tokenization](Subword_1.png)
+	![Subword Tokenization](obsNot/img/Tokenization/Subword_1.png)
 	- Strikes the balance between word-based and character-based
 	- Aim ⇒ Address the challenge:  
 		→ Large vocab size (word-based)  
@@ -41,4 +41,7 @@ Type of Tokenization:
 5. N-gram Tokenization
 	- Split words into fixed-sized chunks (size = n) of data
 	- n-gram ⇒ a sequence of n unit
-		unigram → n = 1
+		unigram → n = 1  
+		bigram → n = 2  
+		trigram → n = 3  
+	- 
