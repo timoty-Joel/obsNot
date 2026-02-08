@@ -44,4 +44,6 @@ Type of Tokenization:
 		unigram → n = 1  
 		bigram → n = 2  
 		trigram → n = 3  
-	- 
+	- Advantages:
+		- Captures word relation
+		- 
