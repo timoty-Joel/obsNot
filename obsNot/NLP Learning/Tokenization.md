@@ -24,7 +24,7 @@ Type of Tokenization:
 
 3. Subword Tokenization  
 
-	![[Subword_1.png]]
+	![](C:\Users\timot\OneDrive\Dokumen\Obsidian Vault\obsNot\Img\Tokenization\Subword_1.png?raw=true)
 	- Strikes the balance between word-based and character-based
 	- Aim ⇒ Address the challenge:  
 		→ Large vocab size (word-based)  
