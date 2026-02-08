@@ -22,7 +22,7 @@ Type of Tokenization:
 			→ Misspelled words → Classified as OOV → Loss of info, model failed to recognize
 	- Example Libraries: spaCy, NLTK, Keras
 
-3. Subword Tokenization
+3. Subword Tokenization  
 	![[Subword_1.png]]
 	- Strikes the balance between word-based and character-based
 	- Aim ⇒ Address the challenge:  
