@@ -24,7 +24,7 @@ Type of Tokenization:
 
 3. Subword Tokenization  
 
-	![Subword_1.png](obsNot/Img/Tokenization/Subword_1.png)
+	![Subword Tokenization](obsNot/Img/Tokenization/Subword_1.png)
 	- Strikes the balance between word-based and character-based
 	- Aim ⇒ Address the challenge:  
 		→ Large vocab size (word-based)  
