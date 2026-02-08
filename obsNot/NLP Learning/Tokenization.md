@@ -40,4 +40,5 @@ Type of Tokenization:
 
 5. N-gram Tokenization
 	- Split words into fixed-sized chunks (size = n) of data
-	- 
+	- n-gram ⇒ a sequence of n unit
+		unigram → n = 1
