@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsNot/NLP Learning/Stemming.md",
+                "file": "obsNot/NLP Learning/Text Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stemming"
+              "title": "Text Data"
             }
           }
         ]
@@ -183,10 +183,11 @@
   },
   "active": "52c928e78e3660d0",
   "lastOpenFiles": [
+    "obsNot/NLP Learning/Stemming.md",
+    "obsNot/NLP Learning/Text Data.md",
     "obsNot/NLP Learning/Tokenization.md",
     "Bangkit Notes/Linear Algebra for ML.md",
     "ML/Exploratory Data Analysis.md",
-    "obsNot/NLP Learning/Stemming.md",
     "Subword Tokenization.md",
     "().md",
     "obsNot/img/Stemming",
@@ -221,7 +222,6 @@
     "obsNot/AI-ML/Notes/Math Basic for ML - AI.md",
     "obsNot/AI-ML/Tips Prompting.md",
     "obsNot/AI-ML/Tips from Skripsi.md",
-    "obsNot/AI-ML/Tips for NLP (Natural Language Processing).md",
     "obsNot/AI-ML/Notes",
     "image/image_bangkit_notes/Pasted image 20231222222825.png",
     "image/image_bangkit_notes/ex_table.png",
