@@ -1,2 +1,2 @@
 # Text Data
-Text Data ⇒ Any form of data 
+Text Data ⇒ Unstructured or Semi-unstructured data that refers to 
