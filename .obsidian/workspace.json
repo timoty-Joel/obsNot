@@ -25,12 +25,14 @@
             "id": "c4b165366ee9c0f6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "obsNot/NLP Learning/Text Data.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "Text Data"
             }
           }
         ],
