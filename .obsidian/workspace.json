@@ -4,40 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "55374b4ff838d420",
+        "id": "090c18f9f56d6750",
         "type": "tabs",
         "children": [
           {
-            "id": "c4b165366ee9c0f6",
+            "id": "538df9e2806e8121",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "obsNot/NLP Learning/Text Data.md",
-                "bFile": "obsNot/NLP Learning/Text Data.md",
-                "aRef": ""
+                "file": "obsNot/NLP Learning/Text Data.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Text Data  (Working Tree)"
-            }
-          },
-          {
-            "id": "afc3be662c341833",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "obsNot/NLP Learning/Text Data.md",
-                "bFile": "obsNot/NLP Learning/Text Data.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Text Data  (Index)"
+              "icon": "lucide-file",
+              "title": "Text Data"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsNot/NLP Learning/Text Data.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Text Data"
             }
           },
           {
@@ -157,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "obsNot/NLP Learning/Text Data.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Text Data"
             }
           },
           {
@@ -195,12 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "afc3be662c341833",
+  "active": "538df9e2806e8121",
   "lastOpenFiles": [
+    "obsNot/NLP Learning/Tokenization.md",
     "obsNot/NLP Journey.md",
     "obsNot/NLP Learning/Text Data.md",
     "obsNot/NLP Learning/Stemming.md",
-    "obsNot/NLP Learning/Tokenization.md",
     "Bangkit Notes/Linear Algebra for ML.md",
     "ML/Exploratory Data Analysis.md",
     "Subword Tokenization.md",
