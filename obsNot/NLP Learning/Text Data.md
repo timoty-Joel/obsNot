@@ -1,2 +1,2 @@
 # Text Data
-Text Data ⇒ Unstructured or Semi-unstructured data that refers to 
+Text Data ⇒ Unstructured or Semi-unstructured data basically composed of text such as reviews, articles, 
