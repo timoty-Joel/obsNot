@@ -11,31 +11,33 @@
             "id": "c4b165366ee9c0f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "obsNot/NLP Learning/Text Data.md",
-                "mode": "source",
-                "source": false
+                "aFile": "obsNot/NLP Learning/Text Data.md",
+                "bFile": "obsNot/NLP Learning/Text Data.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Text Data"
+              "icon": "diff",
+              "title": "Diff: Text Data  (Working Tree)"
             }
           },
           {
             "id": "afc3be662c341833",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "obsNot/NLP Journey.md",
-                "mode": "source",
-                "source": false
+                "aFile": "obsNot/NLP Learning/Text Data.md",
+                "bFile": "obsNot/NLP Learning/Text Data.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "NLP Journey"
+              "icon": "diff",
+              "title": "Diff: Text Data  (Index)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,12 +144,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsNot/NLP.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from NLP"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsNot/NLP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NLP"
+              "title": "Outline"
             }
           },
           {
@@ -195,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4b165366ee9c0f6",
+  "active": "afc3be662c341833",
   "lastOpenFiles": [
     "obsNot/NLP Journey.md",
     "obsNot/NLP Learning/Text Data.md",
