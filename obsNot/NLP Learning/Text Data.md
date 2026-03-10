@@ -3,4 +3,5 @@
 ⇒ Can capture humans reviews, sentiments, opinions or experiences, providing insights to certain goal. 
 
 **Challenge in Handling Text Data**  
-Working with text data comes with its own 
+Working with text data comes with its own obstacle such as:
+- Unstructured Nature: 
