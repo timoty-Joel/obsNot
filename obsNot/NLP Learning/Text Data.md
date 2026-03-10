@@ -4,4 +4,4 @@
 
 **Challenge in Handling Text Data**  
 Working with text data comes with its own obstacle such as:
-- Unstructured Nature: 
+- Unstructured Nature: Text data lacks a predefined structure,
