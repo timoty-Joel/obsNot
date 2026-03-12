@@ -6,4 +6,4 @@
 Working with text data comes with its own obstacle such as:
 - **Unstructured Nature**: Text data lacks a predefined structure, existing in free-flowing format that can be challenging for for computers to analyze. Unlike data in spreadsheet or table that has column and row, text data can be a paragraph, a document, a tweet, an instagram post, etc. 
 - **Variability in Length and Style**: Documents can range from shorts tweets or reviews to long articles, need normalization for analysis purposes. 
-- **Ambiguity & Subjectivity**: 
+- **Ambiguity & Subjectivity**: Words in text data can have multiple meanings and interpretations depending o
