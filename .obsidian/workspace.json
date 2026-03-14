@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsNot/NLP Learning/Text Data.md",
+                "file": "obsNot/NLP Journey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Text Data"
+              "title": "NLP Journey"
             }
           }
         ]
@@ -183,9 +183,9 @@
   },
   "active": "538df9e2806e8121",
   "lastOpenFiles": [
+    "obsNot/NLP Learning/Text Data.md",
     "obsNot/NLP Learning/Tokenization.md",
     "obsNot/NLP Journey.md",
-    "obsNot/NLP Learning/Text Data.md",
     "obsNot/NLP Learning/Stemming.md",
     "Bangkit Notes/Linear Algebra for ML.md",
     "ML/Exploratory Data Analysis.md",
