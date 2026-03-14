@@ -6,8 +6,8 @@ Before start to learn NLP, we should discuss about the question below about NLP:
 ---
 
 **What are the things in NLP?**  
-Text Data
-
+[[Text Data]]
+Before hopping into NLP, we have to know that data is more abundant than before in today's digital age. 
 
 Vocab size
  - Number of unique words in a corpus
