@@ -49,8 +49,7 @@
               "title": "Stemming"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89c2512485229e28",
+  "active": "538df9e2806e8121",
   "lastOpenFiles": [
-    "obsNot/NLP Learning/Tokenization.md",
     "obsNot/NLP Learning/ReGex.md",
+    "obsNot/NLP Learning/Tokenization.md",
     "obsNot/NLP Learning/Untitled",
     "obsNot/NLP Learning/Stemming.md",
     "obsNot/NLP Journey.md",
