@@ -19,4 +19,7 @@ Working with text data can be broken to some steps, consisted of:
 2. **Text Cleaning**, 
 3. **Text Processing**
 4. **Feature Engineering**
-5. 
+5. **Modeling**
+6. **Evaluation**
+7. **Deployment**
+8. **Monitoring and Updating**
