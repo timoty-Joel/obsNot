@@ -18,4 +18,5 @@ Working with text data can be broken to some steps, consisted of:
 1. **Data Acquisition**
 2. **Text Cleaning**, 
 3. **Text Processing**
-4. 
+4. **Feature Engineering**
+5. 
