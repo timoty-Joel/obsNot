@@ -14,4 +14,8 @@ Working with text data comes with its own obstacle such as:
 	Text can **contain typos, abbrevations, slang, and emojis** that make nomalization and cleaning are necessary. Texts written in all capslock and excessive use of exclamation points can also represents different emphasize. This can leading to add another layer of complexity. 
 
 **Working with Text Data**
-Working with text data can be broken to some steps, consisted of **Data Acquisition**, **Text Cleaning**, **Text Processing**, 
+Working with text data can be broken to some steps, consisted of:
+1. **Data Acquisition**
+2. **Text Cleaning**, 
+3. **Text Processing**
+4. 
