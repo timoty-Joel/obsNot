@@ -1,4 +1,4 @@
-# Text Data
+# Text Data  
 ⇒ Unstructured or Semi-unstructured data basically composed of text such as reviews, articles, social media posts, and text documents.  
 ⇒Text data lies in its richness because it can capture humans reviews, sentiments, opinions or experiences, providing insights to certain goal. 
 
