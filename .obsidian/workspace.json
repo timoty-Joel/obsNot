@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsNot/NLP Learning/ReGex.md",
+                "file": "obsNot/NLP Journey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ReGex"
+              "title": "NLP Journey"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsNot/NLP Journey.md",
+                "file": "obsNot/NLP Learning/Text Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NLP Journey"
+              "title": "Text Data"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Stemming"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,13 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5caac971160222ff",
+  "active": "89c2512485229e28",
   "lastOpenFiles": [
-    "obsNot/NLP Learning/Tokenization.md",
-    "obsNot/NLP Learning/Text Data.md",
-    "obsNot/NLP Learning/Stemming.md",
-    "obsNot/NLP Journey.md",
     "obsNot/NLP Learning/ReGex.md",
+    "obsNot/NLP Learning/Text Data.md",
+    "obsNot/NLP Journey.md",
+    "obsNot/NLP Learning/Tokenization.md",
+    "obsNot/NLP Learning/Stemming.md",
     "obsNot/NLP Learning/Untitled",
     "Bangkit Notes/Linear Algebra for ML.md",
     "ML/Exploratory Data Analysis.md",
