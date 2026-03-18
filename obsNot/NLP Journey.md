@@ -11,7 +11,7 @@ Before hopping into NLP, we have to know that data is more abundant than before 
 
 Vocab size
  - Number of unique words in a corpus
- -  Example:
+ - Example:
 	> Document:  
 		"I like eggs  
 		I hate cats  
@@ -19,7 +19,6 @@ Vocab size
 		
 	  There are 6 unique words ⇒ Vocab size = 6  
 	  **Addition**: If we do vectorization by counting → There are 3 rows and 6 unique words, so there will be 6 vector with 3 as the length.
-	   and cats eggs hate I like
 		
 Normalization
 - Needed because text document can contain many words. In a corpus, there are many **long** or **short** text document. 
