@@ -11,7 +11,7 @@ Before hopping into NLP, we have to know that data is more abundant than before 
 
 Vocab size
 - Number of unique words in a corpus
- Example:
+ - Example:
 	> Document:  
 		"I like eggs  
 		I hate cats  
@@ -32,6 +32,5 @@ Why we need vector for NLP?
 - Computer needs numerical representations to understand and process data → Text data is converted into numeric values in form of vector
 - Vector in NLP, capture semantic (meaning), syntactic structure, and contextual relation of the text. 
 
-## Tokenization
-![Tokenization]
+## [Tokenization](obsNot/NLP%20Learning/Tokenization)
 
