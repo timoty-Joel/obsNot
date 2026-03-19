@@ -33,4 +33,4 @@ Why we need vector for NLP?
 - Vector in NLP, capture semantic (meaning), syntactic structure, and contextual relation of the text. 
 
 ## [Tokenization](obsNot/NLP%20Learning/Tokenization)
-
+Tokenization is the process of breaking down a text data
