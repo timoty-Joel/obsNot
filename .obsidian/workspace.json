@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "NLP Journey"
             }
+          },
+          {
+            "id": "356a9d513c5b5691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsNot/NLP Learning/ReGex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ReGex"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,10 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98a11efb64b8d8c1",
+  "active": "356a9d513c5b5691",
   "lastOpenFiles": [
-    "obsNot/NLP Learning/Tokenization.md",
     "obsNot/NLP Journey.md",
+    "obsNot/NLP Learning/Tokenization.md",
     "obsNot/NLP Learning/Text Data.md",
     "obsNot/NLP Learning/Stemming.md",
     "obsNot/NLP Learning/Text.md",
