@@ -5,3 +5,4 @@
 ⇒ For example, we want to search files using .pdf extension:
 	We have to type following expression → ^\w+\\.pdf$
 
+**Basic Matcher**
