@@ -6,3 +6,4 @@
 	We have to type following expression → ^\w+\\.pdf$
 
 **Basic Matcher**
+In regex, we can find a specific word by write it directly. It is similar to normal search process
