@@ -8,3 +8,5 @@
 **Basic of Regex**
 In regex, we can find a specific word by write it directly. It is similar to normal search process.  
 For instance, we want to find a word 'regex' or 'processing' → Just write `/regex/g` or `/processing/g`
+
+To search or find any character in the text
