@@ -11,7 +11,7 @@ For instance, we want to find a word 'regex' or 'processing' → Just write `/re
 **To search or find any character in the text**  
 Use → / . /g  
 
-## Using Brackets
+## Using Brackets  
 **To find a set character**  
 Use square bracket `[]` with the characters inside the bracket. For an example, we wanna find 'far', 'fir, 'fur, so we can write `/f[aiu]r/g`  
 
