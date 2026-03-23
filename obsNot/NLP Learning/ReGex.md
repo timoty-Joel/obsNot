@@ -21,4 +21,7 @@ Use `^` inside the square bracket, before the character set we want to except. F
 **To search range of character and numbers**  
 To find all character in a text data that included in a certain range → Use \[char1 - char2]  
 For an example, finding character from a to r → `/[a-r]/g`  
-To find a certain range of number 
+
+To find a certain range of number → Use `/[num1 - num2]/g`  
+Example, finding a range of 4 to 12 → `/[4-12]/g`  
+
