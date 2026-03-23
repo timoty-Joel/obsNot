@@ -26,3 +26,4 @@ To find a certain range of number → Use `/[num1 - num2]/g`
 Example, finding a range of 4 to 12 → `/[4-12]/g`  
 
 ## Quantifiers 
+****
