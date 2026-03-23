@@ -35,4 +35,4 @@ Finding words that has one or more 'e' between 'b' and 'r' → `/be+r/g`, the re
 **To indicate a character is optional** → Use `/char?/g`  
 Searching words with or without 'u' inside → `/colou?r/g`, the result will be color and colour  
   
-**To find
+**To indicate a specific limit** → Use `/{}/g`  
