@@ -18,7 +18,7 @@ Use square bracket `[]` with the characters inside the bracket. For an example, 
 **To negate a character set (we want to do exception for some character)**  
 Use `^` inside the square bracket, before the character set we want to except. For an example, instead of looking for 'far', 'fir', 'fur', we wanna negate them. So, we write `/f[^aiu]r/g`  
 
-**To search range of character**  
+**To search range of character and numbers**  
 To find all character in a text data that included in a certain range → Use \[char1 - char2]  
 For an example, finding character from a to r → `/[a-r]/g`  
-
+To find a certain range of number 
