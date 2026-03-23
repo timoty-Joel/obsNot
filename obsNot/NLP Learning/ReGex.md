@@ -32,3 +32,6 @@ For instance, we wanna look for character e that occurs any number of times → 
 **To find an instance that match patterns in one times or more** → Use `/char+/g`  
 Finding words that has one or more 'e' between 'b' and 'r' → `/be+r/g`, the result will be 'ber', 'beer', 'beeer'
 
+**To indicate a character is optional** → Use `/char?/g`  
+Searching words with or without 'u' inside → `/colou?r/g`, the result will be color and colour  
+
