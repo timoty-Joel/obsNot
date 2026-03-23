@@ -26,7 +26,7 @@ To find a certain range of number → Use `/[num1 - num2]/g`
 Example, finding a range of 4 to 12 → `/[4-12]/g`  
 
 ## Quantifiers 
-**To find an instance that match patterns in any number of times, including zero** → Use `/char/g*`  
+**To find an instance that match patterns in any number of times, including zero** → Use `/char*/g`  
 For instance, we wanna look for character e that occurs any number of times → `/de*r/g`, so it would be dr, der, deer  
   
-**To find an instance 
+**To find an instance that match patterns in one times or more** → Use `/char+/g`  
