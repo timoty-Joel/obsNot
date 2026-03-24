@@ -36,7 +36,8 @@ Finding words that has one or more 'e' between 'b' and 'r' → `/be+r/g`, the re
 Searching words with or without 'u' inside → `/colou?r/g`, the result will be color and colour  
   
 **To indicate a specific limit** → Use `/{}/g`  
-	To indicate only a certain time appearance → Use `/{x}/g`, where x is an integer (1, 2, 3, ...)
-	To indicate only a certain time appearance with no upper limit → Use `/{x, }/g` 
-	
-	
+	To indicate only a certain time appearance → Use `/{x}/g`, where x is an integer (1, 2, 3, ...)  
+	To indicate only a certain time appearance with no upper limit → Use `/{x, }/g`  
+	To indicate only a certain time appearance with upper limit → Use `/{x, y}/g`  
+
+s
