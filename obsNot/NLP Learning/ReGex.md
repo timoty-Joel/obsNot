@@ -40,4 +40,5 @@ Searching words with or without 'u' inside → `/colou?r/g`, the result will be 
 	To indicate only a certain time appearance with no upper limit of appearance → Use `/{x, }/g`  
 	To indicate only a certain time appearance with upper limit of appearance → Use `/{x, y}/g`  
 
-s
+## Grouping 
+
