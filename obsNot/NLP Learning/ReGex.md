@@ -44,4 +44,5 @@ Searching words with or without 'u' inside → `/colou?r/g`, the result will be 
 Grouping can be used when we have to search for multiple parts of strings or text data that have different requirements. To do grouping, we can use `/()/g` (parentheses symbol). Parentheses can be used for grouping, matched text, referencing a group, or non-group capturing.  
 
 **Parentheses for Grouping**  
-We can use parentheses for grouping 
+We can use parentheses for grouping then use the group result to reference or apply some rules.  
+
