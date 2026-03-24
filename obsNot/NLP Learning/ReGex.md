@@ -47,7 +47,7 @@ Grouping can be used when we have to search for multiple parts of strings or tex
 We can use parentheses for grouping then use the group result to reference or apply some rules.  
 For an example:  
 	Text ⇒ ha-ha, haa-haa  
-	Target: haa-haa → We can use `/(haa)/g` → The selected will be the two word 'haa' without hyphen. If we use `/(haa)-\1/g`, the selected will be 'haa-haa' because the pattern 'haa' will be captured and referenced as group1. So, the system will search all that matches with group1 ('haa' before hyphen and 'haa' after hyphen)  
+	Target: haa-haa → We can use `/(haa)/g` → The selected will be the two word 'haa' without hyphen. If we use `/(haa)-\1/g`, the selected will be 'haa-haa' because the pattern 'haa' will be captured and referenced as group1. So, the system will search that matches with group1 ('haa' before hyphen and 'haa' after hyphen)  
 
 **Referencing a Group**
 Beside for grouping, we can utilize parentheses for referencing a group or some groups in a text data. 
