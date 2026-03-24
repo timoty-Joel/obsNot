@@ -41,4 +41,7 @@ Searching words with or without 'u' inside → `/colou?r/g`, the result will be 
 	To indicate only a certain time appearance with upper limit of appearance → Use `/{x, y}/g`  
 
 ## Grouping  
-Grouping can be used when we have to search for multiple parts of strings or text data that have different requirements. To do grouping, we can use `/()/g` (parentheses symbol). Parentheses can be used for grouping, matched text, 
+Grouping can be used when we have to search for multiple parts of strings or text data that have different requirements. To do grouping, we can use `/()/g` (parentheses symbol). Parentheses can be used for grouping, matched text, referencing a group, or non-group capturing.  
+
+**Parentheses for Grouping**  
+
