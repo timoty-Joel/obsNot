@@ -46,5 +46,5 @@ Grouping can be used when we have to search for multiple parts of strings or tex
 **Parentheses for Grouping**  
 We can use parentheses for grouping then use the group result to reference or apply some rules.  
 For an example:  
-Text ⇒ ha-ha, haa-haa  
-Target: haa-haa → We can use `/(haa)/g` → The selected will be the two word 'haa' without hyphen. 
+	Text ⇒ ha-ha, haa-haa  
+	Target: haa-haa → We can use `/(haa)/g` → The selected will be the two word 'haa' without hyphen. 
