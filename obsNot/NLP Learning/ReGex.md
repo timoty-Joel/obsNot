@@ -50,3 +50,4 @@ For an example:
 	Target: haa-haa → We can use `/(haa)/g` → The selected will be the two word 'haa' without hyphen. If we use `/(haa)-\1/g`, the selected will be 'haa-haa' because the pattern 'haa' will be captured and referenced as group1. So, the system will search all that matches with group1 ('haa' before hyphen and 'haa' after hyphen)  
 
 **Referencing a Group**
+Beside for grouping, we can utilize parentheses for referencing a group or some groups in a text data. 
