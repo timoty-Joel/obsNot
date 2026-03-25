@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1fd25f8f8dd9aaf",
+  "active": "356a9d513c5b5691",
   "lastOpenFiles": [
     "obsNot/NLP Journey.md",
     "obsNot/NLP Learning/Tokenization.md",
