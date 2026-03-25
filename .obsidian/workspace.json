@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "ReGex"
             }
+          },
+          {
+            "id": "d1fd25f8f8dd9aaf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "356a9d513c5b5691",
+  "active": "d1fd25f8f8dd9aaf",
   "lastOpenFiles": [
     "obsNot/NLP Journey.md",
     "obsNot/NLP Learning/Tokenization.md",
