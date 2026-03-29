@@ -51,4 +51,6 @@ For an example:
 	We can use `/(haa)/g` → To select the matching pattern ( in this case is 'haa' )
 
 **Referencing a Group**
-Beside for grouping, we can utilize parentheses for referencing a group or some groups in a text data. 
+Beside for grouping, we can utilize parentheses for referencing a group or some groups in a text data. By using parentheses to reference grouping, we can select a group or groups that match with the pattern we set.  
+For an example:
+	Text ⇒ 
