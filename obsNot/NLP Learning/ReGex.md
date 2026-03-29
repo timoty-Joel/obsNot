@@ -54,4 +54,4 @@ For an example:
 Beside for grouping, we can utilize parentheses for referencing a group or some groups in a text data. By using parentheses to reference grouping, we can select a group or groups that match with the pattern we set.  
 For an example:
 	Text ⇒ ha-ha, haa-haa ha ha-, haa-haa ha-ha, haa-haa  
-	Target ⇒ 
+	Target ⇒ ha-ha, haa-haa
