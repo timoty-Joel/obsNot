@@ -55,4 +55,4 @@ Beside for grouping, we can utilize parentheses for referencing a group or some 
 For an example:
 	Text ⇒ ha-ha, haa-haa ha ha-, haa-haa ha-ha, haa-haa  
 	Target ⇒ ha-ha, haa-haa
-	We can use `/(ha)-\1, (haa)-\2/g` 
+	We can use `/(ha)-\1, (haa)-\2/g` to reference 'ha'
