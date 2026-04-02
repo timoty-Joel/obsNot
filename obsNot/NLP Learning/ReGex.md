@@ -60,4 +60,4 @@ For an example:
 **Not Capturing Group**  
 Besides using it for grouping, we can also utilize parentheses to express pattern that is not captured by references. 
 For an example:
-	Text ⇒ 
+	Text ⇒ hahaha, ha-ha-ha-ha ha-ha ha-ha-
