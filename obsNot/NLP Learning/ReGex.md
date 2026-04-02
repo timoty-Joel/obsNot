@@ -62,4 +62,4 @@ Besides using it for grouping, we can also utilize parentheses to express patter
 For an example:
 	Text ⇒ ha, haa-haa ha ha-, haa-haa ha-ha, haa-haa
 	Target ⇒ ha, haa-haa
-	For this case, we can type `/(?:ha), (haa)-\1` to get the matches string. 
+		For this case, we can type `/(?:ha), (haa)-\1` to get the matches string. `(?;...)` this parentheses implementation indicates that it's a group without memory, while 
