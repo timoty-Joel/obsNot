@@ -58,4 +58,6 @@ For an example:
 	We can use `/(ha)-\1, (haa)-\2/g` to reference 'ha' as group 1 and 'haa' as group 2. When we use that regex, we capture 'ha' as group 1 and 'haa' as group 2. So the selected string must be 'ha' with dash(-) and reference for group 1 that is 'ha', same thing for group 2. 'ha ha-' will not be selected because the first 'ha' is without dash and the next one doesn't has 'ha' at the end  
 
 **Not Capturing Group**  
-Besides using it for grouping, we can also utilize 
+Besides using it for grouping, we can also utilize parentheses to express pattern that is not captured by references. 
+For an example:
+	Text ⇒ 
