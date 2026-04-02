@@ -60,4 +60,6 @@ For an example:
 **Not Capturing Group**  
 Besides using it for grouping, we can also utilize parentheses to express pattern that is not captured by references. 
 For an example:
-	Text ⇒ hahaha, ha-ha-ha-ha ha-ha ha-ha-
+	Text ⇒ ha, haa-haa ha ha-, haa-haa ha-ha, haa-haa
+	Target ⇒ ha, haa-haa
+	For this case, we can type `/(?:ha), (haa)-\1` to get the matches string. 
