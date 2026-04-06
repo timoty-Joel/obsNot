@@ -63,3 +63,4 @@ For an example:
 	Text ⇒ ha, haa-haa ha ha-, haa-haa ha-ha, haa-haa
 	Target ⇒ ha, haa-haa
 	For this case, we can type `/(?:ha), (haa)-\1/g` to get the matches string. `(?;...)` this parentheses implementation indicates that it's a group without memory, while `(...)\` is group with memory so we can use it as references. Part `(?:ha)` means that we group 'ha' but we won't use it as reference. Part `(haa)-\1` means that we use 'haa' as group 1 and use it again after dash sign (it would be haa-haa(\1)).
+
