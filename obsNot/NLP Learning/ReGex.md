@@ -67,4 +67,6 @@ For an example:
 ## Alternation
 Alternation allows to specify an expression that can be different expressions. It is works similar with brackets '\[ ]'. What differs it from bracket is bracket usage works on character level while alternation works on expression level. 
 For an example:
-	s
+	Text ⇒ cat rat dog mouse chicken leg
+	Target ⇒ cat rat dog
+	To get specified target,  we can use `/(c)/g`
