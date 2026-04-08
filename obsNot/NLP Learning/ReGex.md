@@ -69,4 +69,5 @@ Alternation allows to specify an expression that can be different expressions. I
 For an example:
 	Text ⇒ cat rat dog mouse chicken leg
 	Target ⇒ cat rat dog
-	To get specified target,  we can use `/(c)/g`
+	To get specified target,  we can use `/(c|r)at | dog /g`
+	
