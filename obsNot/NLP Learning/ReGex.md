@@ -68,6 +68,6 @@ For an example:
 Alternation allows to specify an expression that can be different expressions. It is works similar with brackets '\[ ]'. What differs it from bracket is bracket usage works on character level while alternation works on expression level. 
 For an example:
 	Text ⇒ cat rat dog mouse chicken leg
-	Target ⇒ cat rat dog
-	To get specified target,  we can use `/(c|r)at | dog /g`
+	Target ⇒ cat rat dog leg
+	To get specified target,  we can use `/(c|r)at | dog | leg/g`. The expression allows us to select all the specified text such as cat, rat, dog, and leg. 
 	
