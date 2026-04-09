@@ -70,4 +70,5 @@ For an example:
 	Text ⇒ cat rat dog mouse chicken leg
 	Target ⇒ cat rat dog leg
 	To get specified target,  we can use `/(c|r)at | dog | leg/g`. The expression allows us to select all the specified text such as cat, rat, dog, and leg. 
-	
+
+## Escape Character
