@@ -70,7 +70,7 @@ Alternation allows to specify an expression that can be different expressions. I
 For an example:  
 	&nbsp;&nbsp;&nbsp;&nbsp; Text ⇒ cat rat dog mouse chicken leg  
 	&nbsp;&nbsp;&nbsp;&nbsp; Target ⇒ cat rat dog leg  
-	&nbsp;&nbsp;&nbsp;&nbsp; To get specified target,  we can use `/(c|r)at | dog | leg/g`. The expression allows us to select all the specified text such as cat, rat, dog, &nbsp;&nbsp;&nbsp;&nbsp;and leg.  
+	&nbsp;&nbsp;&nbsp;&nbsp; To get specified target,  we can use `/(c|r)at | dog | leg/g`. The expression allows us to select all the specified text such as cat, rat, dog, and leg.  
 
 ## Escape Character  
 Escape character can be used when we wanna write some special character(**metacharacter**) in regex. Escape character tells the engine to treat those metacharacter as a literal character.  
