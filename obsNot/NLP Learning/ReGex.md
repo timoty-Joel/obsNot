@@ -72,4 +72,5 @@ For an example:
 	To get specified target,  we can use `/(c|r)at | dog | leg/g`. The expression allows us to select all the specified text such as cat, rat, dog, and leg.  
 
 ## Escape Character  
-Escape character 
+Escape character can be used when we wanna write some special character(**metacharacter**) in regex. Escape character tells the engine to treat those metacharacter as a literal character.  
+**Metacharacter in Regex**: 
