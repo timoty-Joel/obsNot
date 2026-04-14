@@ -77,7 +77,7 @@ Escape character can be used when we wanna write some special character(**metach
 **Metacharacter in Regex**: { } \[ ] / \ + * . $^ | ?  
 When we wanna use metacharacter, we can use backslash before the write the metacharacter.  
 Example:  
-	Text ⇒ I think I wanna sleep. Wake me when 7 o'clock.  
+	> Text ⇒ I think I wanna sleep. Wake me when 7 o'clock.  
 	Target ⇒ '.'  
 	We can use `\.` to select dot character from the text.  
 
