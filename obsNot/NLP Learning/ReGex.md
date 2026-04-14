@@ -64,6 +64,7 @@ For an example:
 	Target ⇒ ha, haa-haa  
 	For this case, we can type `/(?:ha), (haa)-\1/g` to get the matches string. `(?;...)` this parentheses implementation indicates that it's a group without memory, while `(...)\` is group with memory so we can use it as references. Part `(?:ha)` means that we group 'ha' but we won't use it as reference. Part `(haa)-\1` means that we use 'haa' as group 1 and use it again after dash sign (it would be haa-haa(\1)).
 
+
 ## Alternation  
 Alternation allows to specify an expression that can be different expressions. It is works similar with brackets '\[ ]'. What differs it from bracket is bracket usage works on character level while alternation works on expression level.  
 For an example:  
@@ -73,4 +74,10 @@ For an example:
 
 ## Escape Character  
 Escape character can be used when we wanna write some special character(**metacharacter**) in regex. Escape character tells the engine to treat those metacharacter as a literal character.  
-**Metacharacter in Regex**: 
+**Metacharacter in Regex**: { } \[ ] / \ + * . $^ | ?  
+When we wanna use metacharacter, we can use backslash before the write the metacharacter.  
+Example: 
+	Text ⇒ I think I wanna sleep. Wake me when 7 o'clock. 
+	Target ⇒ '.'
+	We can use `\.` to select dot character from the text.
+
