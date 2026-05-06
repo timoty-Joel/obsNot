@@ -82,7 +82,7 @@ Example:
 	&nbsp;&nbsp;&nbsp;&nbsp; We can use `\.` to select dot character from the text.  
 
 ## Anchors  
-In ReGex, anchors is used to check if  the matching symbols are starting or ending part of a string. Anchors has two type: the first is caret `^` that is used to check 
+In ReGex, anchors is used to check if  the matching symbols are starting or ending part of a string. Anchors has two type: the first is caret `^` that is used to grab the first part of a string that match. 
 
 **Caret Sign**
 aaaS
