@@ -81,3 +81,8 @@ Example:
 	&nbsp;&nbsp;&nbsp;&nbsp; Target ⇒ '.'  
 	&nbsp;&nbsp;&nbsp;&nbsp; We can use `\.` to select dot character from the text.  
 
+## Anchors  
+In ReGex, anchors is used to check if  the matching symbols are starting or ending part of a string. 
+
+**Caret Sign**
+aaa
