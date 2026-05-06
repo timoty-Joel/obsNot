@@ -85,4 +85,4 @@ Example:
 In ReGex, anchors is used to check if  the matching symbols are starting or ending part of a string. 
 
 **Caret Sign**
-aaa
+aaaS
