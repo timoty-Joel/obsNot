@@ -48,18 +48,6 @@
               "icon": "lucide-file",
               "title": "ReGex"
             }
-          },
-          {
-            "id": "d1fd25f8f8dd9aaf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
           }
         ],
         "currentTab": 2
@@ -183,27 +171,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsNot/NLP Learning/Text Data.md",
+                "file": "obsNot/NLP Learning/ReGex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Text Data"
-            }
-          },
-          {
-            "id": "857864582b8a98dd",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of ReGex"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -218,12 +196,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian-git:Open Git source control": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "356a9d513c5b5691",
+  "active": "edd07101163959a8",
   "lastOpenFiles": [
+    "obsNot/NLP Learning/ReGex.md",
     "obsNot/NLP Journey.md",
     "obsNot/NLP Learning/Tokenization.md",
     "obsNot/NLP Learning/Text Data.md",
@@ -231,7 +209,6 @@
     "obsNot/NLP Learning/Text.md",
     "obsNot/NLP.md",
     "Text.md",
-    "obsNot/NLP Learning/ReGex.md",
     "obsNot/NLP Learning/Untitled",
     "Bangkit Notes/Linear Algebra for ML.md",
     "ML/Exploratory Data Analysis.md",
